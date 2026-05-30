@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderfncrypt",
+        "uuid": 15405516,
+        "checksum": "k8vdb7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
